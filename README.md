@@ -23,12 +23,12 @@ An astable multivibrator with flashing LEDs that serve as eyes for an owl.
 
 # BOM
 
-(2) CR2032 Battery Cell Holders
-(8) 4.7k Ohm Resistors
-(4) 47k Ohm Resistors
-(2) 10 uF Capacitors
-(2) LEDs
-(2) PNP Transistors
+- (2) CR2032 Battery Cell Holders
+- (8) 4.7k Ohm Resistors
+- (4) 47k Ohm Resistors
+- (2) 10 uF Capacitors
+- (2) LEDs
+- (2) PNP Transistors
 
 # Attributions
-- Created by its_kronos
+\- Created by its_kronos
