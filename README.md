@@ -8,18 +8,15 @@ An astable multivibrator with flashing LEDs that serve as eyes for an owl.
 
 ## Front
 
-![image](https://github.com/user-attachments/assets/affec6da-8eab-4c38-82b0-c15a6ded5df0)
+![image](https://github.com/user-attachments/assets/7edc6c2f-f276-4137-91fa-de0a9fedea9b)
 
-![image](https://github.com/user-attachments/assets/6bea2d47-5a3e-473b-bad0-129aacc75ec6)
-
-
+![image](https://github.com/user-attachments/assets/6c069228-7f9e-46ff-a6ca-a01b2b97cd29)
 
 ## Back
 
-![image](https://github.com/user-attachments/assets/f1ad4534-7b18-4171-962a-789ae40a7b17)
+![image](https://github.com/user-attachments/assets/d2899a94-fe22-4688-85e4-1ad727629f10)
 
-![image](https://github.com/user-attachments/assets/f7a80484-f96c-4def-b433-9d9e11a303ec)
-
+![image](https://github.com/user-attachments/assets/baf3116b-29bc-4ee8-a6db-22c950061b7e)
 
 # BOM
 
