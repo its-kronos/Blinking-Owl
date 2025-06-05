@@ -37,7 +37,7 @@ An astable multivibrator with flashing LEDs that serve as eyes for an owl.
 # Demonstrations
 
 ## Prototype
-https://github.com/user-attachments/assets/5ab8c685-fedc-4869-b676-18524e66d9f1
+[https://github.com/user-attachments/assets/5ab8c685-fedc-4869-b676-18524e66d9f1](https://youtu.be/nxCYcsX4kZ4)
 
 
 # Attributions
